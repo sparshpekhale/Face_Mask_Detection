@@ -1,7 +1,7 @@
 facemask-dataset.zip
-Mask
-No Mask
-train
-test
+face-mask-detection.zip
+cropped.zip
+images
 models
+.idea
 .ipynb_checkpoints
